@@ -1,0 +1,8 @@
+div {
+    width: 400px;
+    height: 400px;
+    border: 1px solid red;
+    background-image: url("../../010_hands-on-exercises/puppy.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
