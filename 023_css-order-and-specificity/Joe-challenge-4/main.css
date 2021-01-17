@@ -1,0 +1,10 @@
+img {
+  border: 10px solid red;
+}
+
+[src] {
+  border: 20px solid blue;
+}
+
+
+/*Element is 1 and attribute is 10 - so attribute wins

@@ -1,0 +1,10 @@
+
+
+.image {
+  border: 10px solid red;
+}
+
+[src] {
+  border: 20px solid blue;
+}
+/*Class is 10 and attribute is 10 - it depends which rule comes last

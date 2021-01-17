@@ -1,0 +1,9 @@
+.header {
+  color: red;
+}
+
+#myHeader {
+  color: blue;
+}
+
+/*The ID is 100, class is 1 so the ID wins

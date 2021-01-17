@@ -1,0 +1,10 @@
+header {
+  color: red;
+}
+
+#myHeader {
+  color: blue;
+}
+
+
+/*Element is 1 and ID is 100 so ID wins and its blue
