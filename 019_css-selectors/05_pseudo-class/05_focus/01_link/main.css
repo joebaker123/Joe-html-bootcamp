@@ -1,0 +1,8 @@
+a {
+    font-size: 200px;
+    color: red
+}
+
+a:focus {
+    color: pink;
+}
