@@ -1,0 +1,26 @@
+p{
+    font-family: sans-serif;
+    font-size: 300%;
+}
+
+a {
+ text-decoration-line: none;
+  }
+
+
+a:link {
+ color: green;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: black;
+  text-decoration-line: underline;
+}
+
+a:active {
+  color: red;
+}

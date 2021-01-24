@@ -3,7 +3,7 @@ html {
 }
 
 p {
-    text-decoration: underline;
+    text-decoration: line-through;
 }
 
 a {
