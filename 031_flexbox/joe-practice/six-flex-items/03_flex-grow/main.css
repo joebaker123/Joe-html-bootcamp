@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  flex-flow: row;
+  align-items: flex-start;
+}
+
+div {
+    border: 1px solid black;
+    height: 200px;
+    width: 50px;
+    color: black;
+}
+
+.red {
+  background-color: red;
+  flex-grow: 1;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}

@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: flex-start;
+}
+
+div {
+    border: 1px solid black;
+    height: 20px;
+    width: 60px;
+    color: black;
+}
+
+.red {
+  background-color: red;
+  order: 3;
+}
+
+.yellow {
+  background-color: yellow;
+  order: 2;
+}
+
+.blue {
+  background-color: blue;
+}

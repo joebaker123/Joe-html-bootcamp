@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  flex-flow: row;
+  align-items: flex-start;
+}
+
+div {
+    border: 1px solid black;
+    height: 200px;
+    width: 50px;
+    color: black;
+}
+
+.red {
+  background-color: red;
+  flex-shrink: 2;
+}
+
+.yellow {
+  background-color: yellow;
+  flex-shrink: 1;
+}
+
+.blue {
+  background-color: blue;
+}
