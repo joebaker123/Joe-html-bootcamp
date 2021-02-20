@@ -2,7 +2,7 @@
 body {
     display: flex;
     flex-flow: row wrap;
-    justify-content: flex-start;
+    justify-content: space-between;
     /* formatting */
     border: 5px solid red;
 }

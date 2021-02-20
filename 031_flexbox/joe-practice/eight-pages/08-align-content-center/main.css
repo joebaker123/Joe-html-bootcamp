@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  flex-flow: column wrap;
+  align-content: center;
+}
+
+div {
+    border: 1px solid black;
+    height: 20px;
+    width: 60px;
+    color: black;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}

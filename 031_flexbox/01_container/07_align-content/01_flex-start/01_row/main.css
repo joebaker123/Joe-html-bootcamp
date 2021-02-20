@@ -4,13 +4,13 @@ body {
     flex-flow: row wrap;
 
     /*align-items: flex-start;*/
-    align-content: flex-start;
+    /* align-content: flex-start; */
 
-    /*align-items: flex-end;*/
-    /*align-content: flex-end;*/
+    /* align-items: flex-end;*/
+    /*align-content: flex-end; */
 
-    /*align-items: center;*/
-    /*align-content: center;*/
+    /* align-items: center; */
+    /* align-content: center; */
 
 
     /*align-items: stretch;*/
