@@ -1,0 +1,44 @@
+body {
+  display: flex;
+  flex-flow: row wrap;
+  width: 300px;
+  padding: 0;
+  margin: 0 auto;
+
+}
+
+.one {
+  width: 100%;
+  min-height: 150px;
+}
+
+.two {
+  width: 100%;
+  min-height: 150px;
+}
+
+.three {
+  width: 100%;
+  min-height: 150px;
+}
+
+.four{
+  width: 100%;
+  min-height: 150px;
+}
+
+.five {
+  width: 100%;
+  min-height: 150px;
+}
+
+.six {
+  width: 100%;
+  min-height: 150px;
+}
+
+
+.seven {
+  width: 100%;
+  min-height: 150px;
+}

@@ -1,0 +1,58 @@
+body {
+  display: flex;
+  flex-flow: row wrap;
+  width: 300px;
+  padding: 0;
+  margin: 0 auto;
+
+}
+
+.one {
+  background-image: url("../../../../010_hands-on-exercises/puppy.jpg");
+  background-size: cover;
+  width: 100%;
+  min-height: 150px;
+}
+
+.two {
+  background-image: url("../../../../010_hands-on-exercises/puppy.jpg");
+  background-size: cover;
+  width: 100%;
+  min-height: 150px;
+}
+
+.three {
+  background-image: url("../../../../010_hands-on-exercises/puppy.jpg");
+  background-size: cover;
+  width: 100%;
+  min-height: 150px;
+}
+
+.four{
+  background-image: url("../../../../010_hands-on-exercises/puppy.jpg");
+  background-size: cover;
+  width: 100%;
+  min-height: 150px;
+}
+
+.five {
+  background-image: url("../../../../010_hands-on-exercises/puppy.jpg");
+  background-size: cover;
+  width: 100%;
+  min-height: 150px;
+}
+
+.six {
+  background-image: url("../../../../010_hands-on-exercises/puppy.jpg");
+  background-size: cover;
+  width: 100%;
+  min-height: 150px;
+}
+
+
+.seven {
+  background-image: url("../../../../010_hands-on-exercises/puppy.jpg");
+  background-size: cover;
+  width: 100%;
+  min-height: 150px;
+}

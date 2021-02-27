@@ -1,0 +1,42 @@
+.one {
+  order: 2;
+  width: 50%;
+  min-height: 150px;
+}
+
+.two {
+  order: 3;
+  width: 20%;
+  min-height: 150px;
+}
+
+.three {
+  order: 5;
+  width: 40%;
+  min-height: 150px;
+}
+
+.four{
+  order: 1;
+  width: 50%;
+  min-height: 150px;
+}
+
+.five {
+  order: 7;
+  width: 40%;
+  min-height: 150px;
+}
+
+.six {
+  order: 6;
+  width: 60%;
+  min-height: 150px;
+}
+
+
+.seven {
+  order: 4;
+  width: 40%;
+  min-height: 150px;
+}

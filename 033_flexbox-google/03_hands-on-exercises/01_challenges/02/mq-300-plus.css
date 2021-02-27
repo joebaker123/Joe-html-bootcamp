@@ -1,0 +1,35 @@
+.one {
+  width: 100%;
+  min-height: 150px;
+}
+
+.two {
+  width: 20%;
+  min-height: 150px;
+}
+
+.three {
+  width: 30%;
+  min-height: 150px;
+}
+
+.four{
+  width: 50%;
+  min-height: 150px;
+}
+
+.five {
+  width: 33.33%;
+  min-height: 150px;
+}
+
+.six {
+  width: 33.33%;
+  min-height: 150px;
+}
+
+
+.seven {
+  width: 33.33%;
+  min-height: 150px;
+}
