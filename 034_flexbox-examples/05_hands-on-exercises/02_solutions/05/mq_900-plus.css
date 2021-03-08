@@ -1,0 +1,18 @@
+body, nav, main {
+  padding: 20px;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+}
+
+li {
+  display: block;
+}
+
+ul {
+  flex-flow: column nowrap;
+  padding: 10px;
+}

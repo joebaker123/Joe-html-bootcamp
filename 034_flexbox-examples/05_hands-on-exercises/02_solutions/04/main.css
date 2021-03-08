@@ -1,0 +1,23 @@
+body, nav, ul, main {
+  padding: 20px;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  flex-flow: row wrap;
+}
+
+li {
+  padding: 10px;
+}
+
+nav {
+  border: 10px solid red;
+}
+
+main {
+  border: 10px solid red;
+}

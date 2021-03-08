@@ -1,0 +1,6 @@
+header, nav, article, aside, footer {
+  border: 1px solid black;
+  background-color: beige;
+  padding: 10px;
+  text-align: center;
+}
