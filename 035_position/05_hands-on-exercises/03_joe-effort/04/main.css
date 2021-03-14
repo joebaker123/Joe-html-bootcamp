@@ -1,0 +1,28 @@
+body, nav, main, p, div {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 500px;
+  border: 2px solid red;
+}
+
+main {
+  border: 2px solid black;
+  width: 700px;
+  height: 500px;
+  padding-left: 200px;
+}

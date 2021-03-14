@@ -1,0 +1,28 @@
+body, nav, main, p, div {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#one {
+  position: relative;
+  background-color: red;
+  border: 3px solid orange;
+  height: 400px;
+  width: 400px;
+  box-sizing: border-box;
+  margin: 10px 10px;
+
+}
+
+#two {
+  position: absolute;
+  top: 100px;
+  right: 20px;
+  background-color: purple;
+  border: 3px solid hotpink;
+  height: 100px;
+  width: 100px;
+  box-sizing: border-box;
+}
