@@ -1,0 +1,22 @@
+body, nav, main, div {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+nav {
+  float: left;
+  width: 25%;
+  border: 2px solid green;
+}
+
+main {
+  float: right;
+  width: 75%;
+  border: 2px solid hotpink;
+}

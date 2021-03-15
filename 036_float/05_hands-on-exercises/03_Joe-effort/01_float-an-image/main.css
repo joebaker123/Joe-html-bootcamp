@@ -1,0 +1,17 @@
+body, img, main, nav, div {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 700px;
+  border: 2px solid black;
+}
+
+img {
+  float: left;
+  width: 200px;
+  padding: 20px;
+}
