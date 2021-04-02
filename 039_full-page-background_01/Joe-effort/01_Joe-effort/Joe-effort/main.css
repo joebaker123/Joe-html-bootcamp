@@ -1,0 +1,54 @@
+  #idx-atf {
+    height: 100vh;
+    display: flex;
+    /* flex-direction: row;
+    flex-wrap: nowrap; */
+    /* flex-flow: row nowrap; */
+    justify-content: center;
+    align-items: center;
+    border: 10px solid hotpink
+  }
+
+
+.idx-center {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  /* flex-flow: row nowrap; */
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+/* section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.idx-center {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  margin-bottom: -10px;
+} */
+
+
+
+
+/* body {
+  background-image: url("./img/background-photo-mobile-devices.jpg");
+}
+
+img {
+  background-position: cover;
+  background-repeat: no-repeat;
+} */
